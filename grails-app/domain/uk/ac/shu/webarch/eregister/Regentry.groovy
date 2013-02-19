@@ -2,8 +2,9 @@ package uk.ac.shu.webarch.eregister
 
 class Regentry {
 
-	String name
-	String signature
+	String studentName
+	Student studentID
+	Regsheet sheetNo
 
     static constraints = {
     }

@@ -4,6 +4,11 @@ class Course {
 
 	String courseName
 	String courseNumber
+	String courseLeader
+	String faculty
+	
+	static mappedBy = [classes:'courseNumber']
+	static hasMany = [classes:RegClass]
 
     	static constraints = {
     	}

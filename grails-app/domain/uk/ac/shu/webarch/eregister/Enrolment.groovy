@@ -2,8 +2,13 @@ package uk.ac.shu.webarch.eregister
 
 class Enrolment {
 
-	String name
-	String courseName
+
+	String enrolmentNo
+	Student studentID
+	RegClass className
+	String contactDetails
+	
+
 
     	static constraints = {
     	}
