@@ -15,5 +15,8 @@ class RegClass {
 	
 
     	static constraints = {
+
+	className unique: true
+
     	}
 }

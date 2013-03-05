@@ -17,5 +17,8 @@ class Student {
 
 
     	static constraints = {
+
+	studentID unique: true
+
     	}
 }

@@ -11,5 +11,8 @@ class Regsheet {
 
 
     static constraints = {
+
+	sheetNo unique: true
+
     }
 }

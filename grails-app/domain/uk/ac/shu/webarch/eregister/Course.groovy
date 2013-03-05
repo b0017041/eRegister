@@ -11,5 +11,8 @@ class Course {
 	static hasMany = [classes:RegClass]
 
     	static constraints = {
+
+	courseNumber unique: true
+
     	}
 }
