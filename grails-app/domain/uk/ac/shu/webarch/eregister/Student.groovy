@@ -5,7 +5,7 @@ class Student {
 	String studentName
 	String studentID
 	String learningCentreNo
-	String courseNumber
+	Course courseNumber
 
         
 	Set classes
