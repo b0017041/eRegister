@@ -50,7 +50,11 @@ class BootStrap {
     def tuesday_class = RegClass.findByClassName('Tuesday 16.00') ?: new RegClass(className: 'Tuesday 16.00',
 								         staffNumber: ian_instructor,
 									 courseNumber: web_design).save(); 
-     
+
+     /*REGSHEET*/
+     def row_one = Regsheet.findBySheetNo('1') ?: new Regsheet(sheetNo: '1',
+								classDate: '23/04/2013',
+								className: monday_class).save();
 
     }
     def destroy = {
