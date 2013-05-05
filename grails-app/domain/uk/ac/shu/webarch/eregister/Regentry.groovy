@@ -1,11 +1,14 @@
 package uk.ac.shu.webarch.eregister
 
 class Regentry {
-
-	String studentName
+	
 	Student studentID
 	Regsheet sheetNo
+	Date ts = new Date()
 
     static constraints = {
+
+	
+
     }
 }

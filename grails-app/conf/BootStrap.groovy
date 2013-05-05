@@ -56,6 +56,8 @@ class BootStrap {
 								classDate: '23/04/2013',
 								className: monday_class).save();
 
+
+
     }
     def destroy = {
     }

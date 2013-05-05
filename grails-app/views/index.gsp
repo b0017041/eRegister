@@ -2,10 +2,11 @@
 <html>
 	<head>
 		<meta name="layout" content="main"/>
-		<title>Welcome to Grails</title>
+		<title>SHU | eRegister</title>
 		
 	</head>
 	<body>
-		<p>This is eRegister</p>
+		<h1>This is eRegister</h1>
+		
 	</body>
 </html>
