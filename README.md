@@ -24,11 +24,13 @@ How to run the application
 
 9. You will be directed to a confirmation page displaying the ID and Sheet you have been signed in on. 
 
-10. From the confirmation page you can view how many students have attended classes. You can view this by clicking on the 'Attendence Class List'to view a table of results display student name, sheet no and the timestamp from when they sign in.
+10. From the confirmation page you can view how many students have attended classes. You can view this by clicking on the 'Attendence Class List'to view a table of results display student name, sheet no and the timestamp from when they sign in. 
 
-11. Click the browser back button to go back to the confirmation page again. Clicking the 'Class Attendees Summary' will take you to a page with dropdown form. This form will redirect nowhere.
+11.To view this information in XML or JSON change the URL extension to .xml or .json. 
 
-12. You should have now explored the whole application. 
+12. Click the browser back button to go back to the confirmation page again. Clicking the 'Class Attendees Summary' will take you to a page with dropdown form. This form will redirect nowhere.
+
+13. You should have now explored the whole application. 
 
 
 =============================================================================================
