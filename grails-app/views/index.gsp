@@ -16,6 +16,9 @@
 		<p><a href="http://localhost:8080/eRegister/regsheet/list">Registration Sheet</a></p>
 		<p><a href="http://localhost:8080/eRegister/regentry/list">Registration Entry</a></p>
 		<p><a href="http://localhost:8080/eRegister/enrolment/list">Enrolement</a></p>
+
+		<h3 style="margin: 20px 0px;">Student Registration</h3>
+		<p><a href="http://localhost:8080/eRegister/apply">Register Here</a></p>
 	   </div>	
 	</body>
 </html>

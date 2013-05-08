@@ -38,7 +38,7 @@
 					
 						<td><g:link action="show" id="${regentryInstance.id}">${fieldValue(bean: regentryInstance, field: "sheetNo")}</g:link></td>
 					
-						<td>${fieldValue(bean: regentryInstance, field: "studentID")}</td>
+						<td>${regentryInstance.studentID.studentName}</td>
 					
 						<td><g:formatDate date="${regentryInstance.ts}" /></td>
 					
